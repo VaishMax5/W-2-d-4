@@ -1,0 +1,12 @@
+1. npx create-react-app(name of the folder you want it to be installed in)
+2. Rules to create Component:
+ a. First letter of the File Name of Components is in Caps
+ b. File name and Component name should be same
+ c. In one file you can create only one Component
+
+3. Types of Components:
+  a. Functional
+  b. Arrow Functional
+  c. Class Component (Not used in today's trend)
+
+  rafce(Shortcut)
